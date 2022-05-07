@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20there%20👋&fontSize=80&height=300)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20there!%20👋&fontSize=80&height=300)
 
+<!-- 👋  Hi there!  -->
 
 
 
