@@ -1,14 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20there!%20👋&fontSize=80&height=300)
 
-<!-- <p>
-  👋&nbsp; Hi there! I'm <b>full stack developer</b> skilled in API, WEB, and APP.🚀<br/>
-  I have experience 7 years of Android development and 2 years of iOS development.<br/>
-  For the past year, I have been interested in creating Graph-QL APIs with Quarkus and a web screen with React.<br/>
-  Sometimes I develop cross-platforms mobile app like ReactNative or Flutter. (but prefer native💖)<br/><br/>
-  I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
-  I hope to develop every beautiful things. ✨ <br/><br/>
-</p> -->
-
 ## 💪 Skills
 ### Languages
 
@@ -28,3 +19,15 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+
+### choma
+
+<!-- <p>
+  👋&nbsp; Hi there! I'm <b>full stack developer</b> skilled in API, WEB, and APP.🚀<br/>
+  I have experience 7 years of Android development and 2 years of iOS development.<br/>
+  For the past year, I have been interested in creating Graph-QL APIs with Quarkus and a web screen with React.<br/>
+  Sometimes I develop cross-platforms mobile app like ReactNative or Flutter. (but prefer native💖)<br/><br/>
+  I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
+  I hope to develop every beautiful things. ✨ <br/><br/>
+</p> -->
