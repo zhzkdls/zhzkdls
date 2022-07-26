@@ -5,7 +5,8 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=zhzkdls" height="165">
 
 ### `Introduce`
-어제보다 나은 내가 되기 위해 노력하는 프론트엔드 개발자 **김하영** 입니다. </br>
+어제보다 나은 내가 되기 위해 </br>
+노력하는 프론트엔드 개발자 **김하영** 입니다. </br>
 기발한 아이디어와 탐구심을 가지고 있어서 어떤 환경에서든 극복하고 목표를 향해 나아갈 준비가 되어 있습니다.
 
 ### `STACKS`
