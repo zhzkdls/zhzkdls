@@ -47,7 +47,7 @@
 - 💻 드라마를 좋아합니다.
 - 🍟 먹방을 좋아합니다.
 
-### What kind of sports
+### What sports do I like
 
 - 🎾 Tennis
 - 🏊 swimming
