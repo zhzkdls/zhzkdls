@@ -2,7 +2,7 @@
 
 # Survival developer 😉
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=zhzkdls" height="165">
+<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=zhzkdls" height="165"> -->
 
 ### 🙋🏻 `About Me`
 
